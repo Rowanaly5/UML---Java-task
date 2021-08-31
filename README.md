@@ -1,4 +1,4 @@
-# UML---Java-task
+# UML-Transfer the UML class diagram--Java-task
 
 As a software engineer you are requested to
 design uml class diagram for Point of sale terminal management system that can
@@ -23,3 +23,8 @@ cashier handovers the receipt to the customer.
 Your Modeling should show aggregation,
 association,  composition and inheritance
 relationships.
+
+
+Transfer the UML class diagram
+designed in the first session into java classes following the rules in this
+session, and push your work into github using git and add suitable commit on it
